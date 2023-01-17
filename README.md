@@ -1,1 +1,4 @@
-# DATA-ANALYSIS_HK3
+# Research implications
+Apply the CAMELS model in analyzing banking performance. Analyze, evaluate and find out weak financial indicators in the operation of the bank, identify the causes, thereby taking measures to overcome and limit risks during the operation of the bank. In other word the bank is safe in the CAMELS framework.
+Besides, the application of data analysis tools makes the process of calculating data, visualizing and evaluating the bank's performance easier.
+By reviewing the rating system according to CAMELS standards, experts can comprehensively assess the financial situation of commercial banks in order to find countermeasures to potential risks. Therefore, commercial banks should not try to "beautify" targets to deal with regulatory and supervisory authorities, but must consider CAMELS as "your own health check".
